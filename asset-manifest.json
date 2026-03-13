@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TradeMind/static/css/main.e6c13ad2.css",
+    "main.js": "/TradeMind/static/js/main.47defcca.js",
+    "static/js/453.e99b2ade.chunk.js": "/TradeMind/static/js/453.e99b2ade.chunk.js",
+    "index.html": "/TradeMind/index.html",
+    "main.e6c13ad2.css.map": "/TradeMind/static/css/main.e6c13ad2.css.map",
+    "main.47defcca.js.map": "/TradeMind/static/js/main.47defcca.js.map",
+    "453.e99b2ade.chunk.js.map": "/TradeMind/static/js/453.e99b2ade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47defcca.js"
+  ]
+}
